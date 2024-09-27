@@ -1,4 +1,6 @@
-That's airfare calculator with a command line interface
+That's an airfare calculator with a command line interface 
+
+
 Example
 
 $ .\airCalck
